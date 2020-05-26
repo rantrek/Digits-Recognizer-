@@ -26,10 +26,10 @@ The program is written in Python.
 
 ## Libraries
   
-   -Keras
-   -Tensor Flow
-   -Pandas
-   -Matplotlib
+   - Keras
+   - Tensor Flow
+   - Pandas
+   - Matplotlib
    
 
 
