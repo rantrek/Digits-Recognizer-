@@ -20,7 +20,7 @@ The program is written in Python.
    - Machine Learning
    - Deep Learning   
 
-## Algorthims 
+## Algorithms 
 
    - Convolution Neural Network (CNN)
 
